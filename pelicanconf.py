@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Zurich'
 
 DEFAULT_LANG = 'en'
 
@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 LOAD_CONTENT_CACHE = False
 
-THEME = "pelican-themes/voidy-bootstrap"
+THEME = "pelican-themes/pelican-bootstrap3"
